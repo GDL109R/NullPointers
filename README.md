@@ -2,6 +2,9 @@
 
 This is the repository for the Reboot Hackathon being held in Manchester.
 
+https://build.microsoft.com/en-US/sessions/10424a54-b809-48fc-9c8e-b8d4e3d0823a
+https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/audio/overview
+
 ## Fork this Repository
 
 To track each team's code repositories, any team member who's responsible for building a component must fork this repository so that it can be incorporated into the judging criteria when selecting the winners.
